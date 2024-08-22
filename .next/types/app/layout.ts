@@ -1,4 +1,4 @@
-// File: D:\Treinamento\first-app\app\layout.tsx
+// File: D:\ejss\github\react-training\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

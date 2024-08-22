@@ -1,4 +1,4 @@
-// File: D:\Treinamento\first-app\app\page.tsx
+// File: D:\ejss\github\react-training\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
